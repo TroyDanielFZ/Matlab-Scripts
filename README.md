@@ -37,4 +37,6 @@ This results into:
 
 ![tsubplot-example.png](assets/tsubplot-example.png)
 
+Rahter sad, this image doesn't show up in github, download it for preview.
+
 vim: tw=120
