@@ -35,6 +35,6 @@ stem(t, sin(t), 'm');
 
 This results into:
 
-![tsubplot-example.png](assets\tsubplot-example.png)
+![tsubplot-example.png](assets/tsubplot-example.png)
 
 vim: tw=120
